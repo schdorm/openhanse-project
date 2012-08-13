@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/data">
+    <file>worldmap_citys.ohl</file>
+    <file>schnigge.ohl</file>
+    <file>citylist.ohl</file>
+  </qresource>
+</RCC>

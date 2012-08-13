@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/audio/music">
+    <file>theme.mp3</file>
+  </qresource>
+</RCC>

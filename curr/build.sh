@@ -10,6 +10,7 @@ mdir=`pwd`
 # echo $cdir
 rm /tmp/build_oh.log
 mkdir bin 2> /dev/null
+cp -uv start_server.sh start_client.sh start_control.sh bin/
 cd common
 # # make clean
 echo "Building common-lib ..."
